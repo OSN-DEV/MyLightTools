@@ -14,11 +14,11 @@ git config --local user.email "mail@office"
 git config --local --list
 ```
 
-# windows
+# Windows
 ## reboot.bat / shutdown.bat
 コールドブートできるようにするための再起動・シャットダウンのスクリプト。
 
-# apple
+# iTunes
 #### ResetAlbumRate selection.scpt
 選択したアルバムのレーティングをリセット
 
@@ -34,3 +34,6 @@ git config --local --list
 #### SetPlayCount3.scpt
 再生回数を１、レーティングを１、選択を解除
 
+
+# KeyMapping
+Winのキーマッピングを変更するためのレジストリファイル
