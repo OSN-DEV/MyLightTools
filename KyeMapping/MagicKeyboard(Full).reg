@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]								
+"Scancode Map"=hex:00,00,00,00,00,00,00,00,09,00,00,00,1d,00,3a,00,5b,e0,38,00,38,00,5b,e0,53,e0,5c,e0,49,e0,38,e0,51,e0,1d,e0,4f,e0,36,00,37,e0,64,00,00,00,00,00

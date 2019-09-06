@@ -1,0 +1,10 @@
+#!/bin/sh
+if [ -z `git config --local user.name` ] || [ -z `git config --local user.email` ]
+then
+    cat <<\EOF
+Error: Your local name or email address is empty.
+commit fails.
+
+EOF
+    exit 1
+fi
